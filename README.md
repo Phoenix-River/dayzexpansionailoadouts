@@ -1,4 +1,4 @@
-
+This is my DayZ AI equipment file, suitable for DayZ Expansion AI and similar mods.
 【SurvivornwLoadout.json】Melee Bandit
 Info: A survivor who relies on melee weapons to survive after the outbreak.
 Setting: No ranged weapons, normal spawn chance, limited supplies.
